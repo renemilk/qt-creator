@@ -56,6 +56,7 @@ SUBDIRS   = \
     winrt \
     qmlprofiler \
     updateinfo \
+    qtcreatornotify \
     welcome
 
 DO_NOT_BUILD_QMLDESIGNER = $$(DO_NOT_BUILD_QMLDESIGNER)
